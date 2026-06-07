@@ -2,21 +2,14 @@
 
 ## 📌 Sobre o Projeto
 
-> Escreva aqui, com suas palavras, o motivo da escolha do tema.
-
-Exemplo de tópicos para abordar:
-
-* Interesse pela área de Front-End.
-* Importância do desenvolvimento web atualmente.
-* Relação do tema com seus objetivos profissionais.
+Escolhi o tema Desenvolvimento Front-End por sua importância na criação de aplicações web modernas
+e por estar alinhado aos meus objetivos de crescimento profissional na área de tecnologia.
+Este projeto tem como objetivo compreender os fundamentos do Front-End, sua evolução histórica, as principais tecnologias utilizadas
+e sua relação com o Back-End, utilizando o NotebookLM como ferramenta de apoio ao aprendizado e organização do conhecimento.
 
 ---
 
 ## 🎯 Objetivos de Estudo
-
-Descreva o que você pretendia aprender.
-
-Exemplo de estrutura:
 
 * Compreender a evolução histórica do desenvolvimento web.
 * Entender a diferença entre desenvolvimento Front-End e Back-End.
@@ -32,8 +25,7 @@ Exemplo de estrutura:
 
 **Link:** https://developer.mozilla.org
 
-**Motivo da escolha:**
-Escreva por que essa fonte foi considerada relevante.
+É uma das referências mais respeitadas para tecnologias web.
 
 ---
 
@@ -41,8 +33,7 @@ Escreva por que essa fonte foi considerada relevante.
 
 **Link:** https://www.w3schools.com
 
-**Motivo da escolha:**
-Escreva por que essa fonte foi considerada relevante.
+Boa para consultas rápidas e exemplos simples.
 
 ---
 
@@ -50,8 +41,7 @@ Escreva por que essa fonte foi considerada relevante.
 
 **Link:** https://web.dev
 
-**Motivo da escolha:**
-Escreva por que essa fonte foi considerada relevante.
+Muito boa para práticas modernas, performance, acessibilidade e desenvolvimento profissional.
 
 ---
 
