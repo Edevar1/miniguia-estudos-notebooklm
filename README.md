@@ -55,11 +55,13 @@ Muito boa para práticas modernas, performance, acessibilidade e desenvolvimento
 
 ### Principais aprendizados
 
-Escreva os pontos mais importantes obtidos na resposta.
+Historicamente, o termo desenvolvedor web era utilizado para profissionais que atuavam em todas as etapas do desenvolvimento de aplicações web, incluindo interface, lógica de negócios e banco de dados. Com a evolução da Web e o aumento da complexidade das aplicações, surgiu a especialização em Front-End, responsável pela construção da interface e experiência do usuário.
+
+O desenvolvedor Front-End trabalha principalmente com HTML, CSS e JavaScript, enquanto o desenvolvedor Web (Full Stack) possui conhecimentos que abrangem também linguagens de servidor, bancos de dados e infraestrutura.
 
 ### Ajustes realizados
 
-Descreva se foi necessário reformular o prompt para obter respostas melhores.
+Inicialmente a pergunta trouxe uma visão geral sobre as funções. Posteriormente, foi necessário explorar outras perguntas relacionadas à evolução da Web para compreender melhor como ocorreu essa especialização.
 
 ---
 
@@ -71,11 +73,13 @@ Descreva se foi necessário reformular o prompt para obter respostas melhores.
 
 ### Principais aprendizados
 
-Escreva os pontos mais importantes encontrados.
+Foi identificado que o desenvolvimento Front-End moderno vai muito além de HTML, CSS e JavaScript. Atualmente, frameworks como React, Angular e Vue são amplamente utilizados para a construção de interfaces modernas.
+
+Também foi possível identificar a importância de ferramentas como Git para controle de versão, TypeScript para maior segurança no desenvolvimento, Sass para estilização avançada e ferramentas de análise de performance como PageSpeed Insights e Core Web Vitals.
 
 ### Ajustes realizados
 
-Descreva melhorias feitas no prompt.
+A pergunta inicial gerou uma lista extensa de ferramentas. Para compreender melhor sua importância, foi necessário aprofundar o estudo sobre frameworks, performance e qualidade de aplicações web.
 
 ---
 
@@ -87,11 +91,17 @@ Descreva melhorias feitas no prompt.
 
 ### Principais aprendizados
 
-Escreva os pontos mais relevantes.
+React foi apresentado como uma biblioteca focada na construção de interfaces de usuário baseadas em componentes reutilizáveis.
+
+Angular foi identificado como um framework completo, oferecendo uma estrutura robusta para aplicações de grande porte.
+
+Vue foi apresentado como um framework progressivo, permitindo adoção gradual e maior flexibilidade para diferentes tipos de projetos.
+
+A comparação demonstrou que cada ferramenta possui características específicas e atende diferentes necessidades de desenvolvimento.
 
 ### Ajustes realizados
 
-Descreva melhorias realizadas.
+Foi necessário pesquisar conceitos complementares relacionados a frameworks modernos para compreender melhor os cenários de utilização de cada tecnologia.
 
 ---
 
@@ -103,11 +113,13 @@ Descreva melhorias realizadas.
 
 ### Principais aprendizados
 
-Escreva os pontos mais importantes.
+As Single-Page Applications (SPAs) são aplicações que funcionam em uma única página, atualizando seu conteúdo dinamicamente sem a necessidade de recarregar o navegador a cada interação.
+
+Foi possível compreender que React, Angular e Vue são amplamente utilizados na construção desse tipo de aplicação, proporcionando uma navegação mais rápida e uma experiência semelhante à de aplicações desktop.
 
 ### Ajustes realizados
 
-Descreva melhorias realizadas.
+Após compreender o conceito básico de SPA, foi necessário relacioná-lo à evolução dos frameworks modernos para entender seu impacto no desenvolvimento atual.
 
 ---
 
@@ -119,11 +131,17 @@ Descreva melhorias realizadas.
 
 ### Principais aprendizados
 
-Registre os conceitos encontrados.
+Foi identificado que HTML, CSS e JavaScript formam os três pilares fundamentais do desenvolvimento Front-End.
+
+* HTML é responsável pela estrutura e semântica do conteúdo.
+* CSS é responsável pela apresentação visual e responsividade.
+* JavaScript adiciona comportamento dinâmico e interatividade às aplicações.
+
+O estudo demonstrou que essas tecnologias trabalham de forma complementar para criar experiências modernas na Web.
 
 ### Ajustes realizados
 
-Descreva melhorias realizadas.
+Não foi necessário alterar significativamente o prompt, pois a resposta apresentou de forma clara o papel de cada tecnologia.
 
 ---
 
@@ -135,11 +153,15 @@ Descreva melhorias realizadas.
 
 ### Principais aprendizados
 
-Registre os conceitos encontrados.
+Foi possível compreender que a comunicação entre Front-End e Back-End ocorre principalmente por meio de APIs e troca de dados em formato JSON.
+
+O Front-End é responsável pela interface e interação com o usuário, enquanto o Back-End processa regras de negócio, autenticação, armazenamento e recuperação de dados.
+
+Também foram identificadas tecnologias importantes para essa comunicação, como Fetch API e AJAX.
 
 ### Ajustes realizados
 
-Descreva melhorias realizadas.
+A resposta inicial foi satisfatória, porém foi necessário pesquisar conceitos complementares sobre APIs para consolidar o entendimento do fluxo de comunicação entre cliente e servidor.
 
 ---
 
@@ -151,35 +173,16 @@ Descreva melhorias realizadas.
 
 ### Principais aprendizados
 
-Registre os conceitos encontrados.
+O estudo mostrou que a evolução da Web transformou páginas estáticas em aplicações altamente interativas e complexas.
+
+O aumento da complexidade do JavaScript e a necessidade de melhor organização do código impulsionaram o surgimento de frameworks como React, Angular e Vue.
+
+Também foi possível compreender a influência das Single-Page Applications (SPAs), da responsividade, da performance e da segurança na criação dessas ferramentas modernas.
 
 ### Ajustes realizados
 
-Descreva melhorias realizadas.
+Essa pergunta ajudou a conectar diversos conceitos estudados anteriormente, servindo como uma síntese da evolução do desenvolvimento Front-End.
 
----
-
-# 🛠️ Cicatrizes e Aprendizados
-
-## Dificuldade 1
-
-Descreva um problema encontrado durante o uso do NotebookLM.
-
-### Como foi resolvido
-
-Explique o ajuste realizado.
-
----
-
-## Dificuldade 2
-
-Descreva outro desafio encontrado.
-
-### Como foi resolvido
-
-Explique o ajuste realizado.
-
----
 
 # 📖 Miniguia de Estudos
 
