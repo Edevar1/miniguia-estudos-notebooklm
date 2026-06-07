@@ -188,92 +188,62 @@ Essa pergunta ajudou a conectar diversos conceitos estudados anteriormente, serv
 
 ## História do Desenvolvimento Web
 
-Faça um resumo dos principais acontecimentos e marcos históricos.
+A Web surgiu como uma plataforma para compartilhamento de informações por meio de páginas estáticas. Com a evolução da tecnologia e das necessidades dos usuários, surgiram aplicações mais interativas, levando à especialização de profissionais e ao desenvolvimento de novas ferramentas para criação de sistemas web modernos.
 
 ---
 
 ## Front-End x Back-End
 
-Explique as diferenças e responsabilidades de cada área.
+**Front-End:** responsável pela interface e experiência do usuário.
+
+**Back-End:** responsável pelo processamento de dados, regras de negócio e integração com bancos de dados.
+
+Ambos trabalham em conjunto por meio de APIs e troca de dados, geralmente utilizando JSON.
 
 ---
 
-## HTML, CSS e JavaScript
-
-Explique o papel de cada tecnologia.
+## Os Três Pilares do Front-End
 
 ### HTML
 
-Seu resumo.
+Estrutura e organização do conteúdo da página.
 
 ### CSS
 
-Seu resumo.
+Estilização, layout e responsividade.
 
 ### JavaScript
 
-Seu resumo.
+Interatividade e comportamento dinâmico da aplicação.
 
 ---
 
-## Frameworks Front-End
+## Frameworks Modernos
 
 ### React
 
-Seu resumo.
+Biblioteca focada na criação de interfaces reutilizáveis.
 
 ### Angular
 
-Seu resumo.
+Framework completo voltado para aplicações robustas.
 
 ### Vue
 
-Seu resumo.
+Framework progressivo conhecido pela simplicidade e flexibilidade.
 
 ---
 
 ## Single-Page Applications (SPAs)
 
-Definição, vantagens, desvantagens e exemplos.
+SPAs são aplicações que atualizam o conteúdo dinamicamente sem recarregar toda a página, proporcionando uma navegação mais rápida e fluida.
 
 ---
 
-# 📚 Glossário
+## Principais Aprendizados
 
-Crie uma lista dos termos mais importantes estudados.
-
-Exemplos:
-
-* Front-End
-* Back-End
-* Framework
-* SPA
-* API
-* DOM
-* Responsividade
-* Renderização
-
----
-
-# 🚀 Prompts Reutilizáveis
-
-Liste prompts que poderão ser utilizados em futuras revisões.
-
-Exemplos:
-
-* Explique [conceito] para um estudante iniciante.
-* Compare [tecnologia A] e [tecnologia B].
-* Crie um resumo em tópicos sobre [tema].
-* Gere perguntas de revisão sobre [assunto].
-* Explique com exemplos práticos.
-
----
-
-# ✅ Conclusão
-
-Escreva um breve texto respondendo:
-
-* O que você aprendeu?
-* Como o NotebookLM ajudou no processo?
-* Quais conhecimentos pretende aprofundar futuramente?
-* Como este estudo contribui para sua formação em desenvolvimento Front-End?
+* O Front-End evoluiu junto com a própria Web.
+* HTML, CSS e JavaScript formam a base do desenvolvimento Front-End.
+* Front-End e Back-End possuem responsabilidades diferentes, mas complementares.
+* Frameworks modernos facilitam o desenvolvimento de aplicações complexas.
+* SPAs oferecem uma experiência mais dinâmica e interativa para os usuários.
